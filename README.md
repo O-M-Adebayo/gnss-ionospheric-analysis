@@ -1,5 +1,8 @@
 # GNSS-Based Ionospheric Disturbance Analysis
 ### DOI: https://doi.org/10.1016/j.jastp.2025.106644
+
+<img width="707" height="302" alt="pids_paper" src="https://github.com/user-attachments/assets/bf46427c-c2bc-492e-9cfa-396b1aad12c0" />
+
 This project processes GNSS-derived Total Electron Content (TEC) data to detect ionospheric disturbances associated with seismic events.
 
 ## Overview
